@@ -1,4 +1,6 @@
 # CycleGAN: Horse-to-Zebra & Zebra-to-Horse Image Translation
+<a href="https://github.com/Sameer-Ahmed7/CycleGAN/blob/main/Vision_And_Perception_Project.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></li>
 
 This repository contains the implementation of CycleGAN for bidirectional image translation between the horse and zebra domains. CycleGAN is a generative adversarial network (GAN) model that enables image-to-image translation without paired examples during training. With this model, you can convert horse images to zebra images and vice versa, allowing for seamless transformation between the two domains.
 
